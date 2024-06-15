@@ -1,5 +1,5 @@
 # CODSOFT PROJECTS
-This repository contains the projects completed during my internship with Codsoft: a Portfolio, a Calculator, and a Landing Page
+This repository contains the projects completed during my internship with Codsoft: a Landing Page .
 ## Projects
 ----------------------------------------------------------------------------------------------
 ### 1.Landing Page 
